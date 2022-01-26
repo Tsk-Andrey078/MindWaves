@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto;
+}
+
+.header {
+  background-color: #9a42ff;
+}
+
+.header .logo {
+  color: #fff;
+  font-size: 72px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#body {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#submit-btn {
+  display: block;
+  margin: 0 auto;
+}
+
+.input {
+  position: absolute;
+  margin-top: 25px;
+}
+
+.list {
+  border: none;
+  padding: 25px;
+  margin-top: 25px;
+}
+
+.button_delete {
+  width: 20%;
+  display: block;
+  margin: 0 auto;
+}
+
+.card_element {
+  padding: 25px;
+}
+/*# sourceMappingURL=style.css.map */
